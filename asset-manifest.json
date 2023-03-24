@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/triplecritical.com/static/css/main.44f8b8b5.css",
-    "main.js": "/triplecritical.com/static/js/main.04fa38d0.js",
-    "static/js/787.28cb0dcd.chunk.js": "/triplecritical.com/static/js/787.28cb0dcd.chunk.js",
-    "static/media/Gameplay.gif": "/triplecritical.com/static/media/Gameplay.210c8c76deb3fcfdf973.gif",
-    "static/media/Furi.gif": "/triplecritical.com/static/media/Furi.e0c6b7872e2d38b66666.gif",
-    "static/media/Shogoro.gif": "/triplecritical.com/static/media/Shogoro.c9c5a11e3e3695178007.gif",
-    "static/media/portrait_landon.png": "/triplecritical.com/static/media/portrait_landon.e0f4d92bf1bfff20f2d9.png",
-    "static/media/portrait_rafa.png": "/triplecritical.com/static/media/portrait_rafa.9c5eb475624f029c01ef.png",
-    "static/media/portrait_ed.png": "/triplecritical.com/static/media/portrait_ed.f9cc86d3754600d55ec8.png",
-    "static/media/portrait_kevin.png": "/triplecritical.com/static/media/portrait_kevin.bfee6253d32f9539b2f3.png",
-    "static/media/Logo.png": "/triplecritical.com/static/media/Logo.1b16ab98f33b4759824b.png",
-    "index.html": "/triplecritical.com/index.html",
-    "main.44f8b8b5.css.map": "/triplecritical.com/static/css/main.44f8b8b5.css.map",
-    "main.04fa38d0.js.map": "/triplecritical.com/static/js/main.04fa38d0.js.map",
-    "787.28cb0dcd.chunk.js.map": "/triplecritical.com/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/static/css/main.44f8b8b5.css",
+    "main.js": "/static/js/main.06794152.js",
+    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "static/media/Gameplay.gif": "/static/media/Gameplay.210c8c76deb3fcfdf973.gif",
+    "static/media/Furi.gif": "/static/media/Furi.e0c6b7872e2d38b66666.gif",
+    "static/media/Shogoro.gif": "/static/media/Shogoro.c9c5a11e3e3695178007.gif",
+    "static/media/portrait_landon.png": "/static/media/portrait_landon.e0f4d92bf1bfff20f2d9.png",
+    "static/media/portrait_rafa.png": "/static/media/portrait_rafa.9c5eb475624f029c01ef.png",
+    "static/media/portrait_ed.png": "/static/media/portrait_ed.f9cc86d3754600d55ec8.png",
+    "static/media/portrait_kevin.png": "/static/media/portrait_kevin.bfee6253d32f9539b2f3.png",
+    "static/media/Logo.png": "/static/media/Logo.1b16ab98f33b4759824b.png",
+    "index.html": "/index.html",
+    "main.44f8b8b5.css.map": "/static/css/main.44f8b8b5.css.map",
+    "main.06794152.js.map": "/static/js/main.06794152.js.map",
+    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.44f8b8b5.css",
-    "static/js/main.04fa38d0.js"
+    "static/js/main.06794152.js"
   ]
 }
