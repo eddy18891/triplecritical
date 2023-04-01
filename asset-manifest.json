@@ -1,23 +1,28 @@
 {
   "files": {
     "main.css": "/static/css/main.44f8b8b5.css",
-    "main.js": "/static/js/main.9e3174aa.js",
+    "main.js": "/static/js/main.4b38c939.js",
     "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
     "static/media/Gameplay.gif": "/static/media/Gameplay.210c8c76deb3fcfdf973.gif",
     "static/media/Furi.gif": "/static/media/Furi.e0c6b7872e2d38b66666.gif",
     "static/media/Shogoro.gif": "/static/media/Shogoro.c9c5a11e3e3695178007.gif",
+    "static/media/portrait_jet.png": "/static/media/portrait_jet.11ad988c5693cdd76c19.png",
+    "static/media/portrait_erin.png": "/static/media/portrait_erin.c4dc071ce676352cc145.png",
     "static/media/portrait_landon.png": "/static/media/portrait_landon.e0f4d92bf1bfff20f2d9.png",
+    "static/media/portrait_anna.png": "/static/media/portrait_anna.7937d0ae2078031f29a5.png",
     "static/media/portrait_rafa.png": "/static/media/portrait_rafa.9c5eb475624f029c01ef.png",
     "static/media/portrait_ed.png": "/static/media/portrait_ed.f9cc86d3754600d55ec8.png",
+    "static/media/portrait_shawn.png": "/static/media/portrait_shawn.40b99f8ff041088567a9.png",
     "static/media/portrait_kevin.png": "/static/media/portrait_kevin.bfee6253d32f9539b2f3.png",
+    "static/media/twitter.png": "/static/media/twitter.17e03af6901bd2481307.png",
     "static/media/Logo.png": "/static/media/Logo.1b16ab98f33b4759824b.png",
     "index.html": "/index.html",
     "main.44f8b8b5.css.map": "/static/css/main.44f8b8b5.css.map",
-    "main.9e3174aa.js.map": "/static/js/main.9e3174aa.js.map",
+    "main.4b38c939.js.map": "/static/js/main.4b38c939.js.map",
     "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.44f8b8b5.css",
-    "static/js/main.9e3174aa.js"
+    "static/js/main.4b38c939.js"
   ]
 }
