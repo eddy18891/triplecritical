@@ -14,7 +14,7 @@ function Contact() {
             </h1>
 
             <Button href='mailto: contact@triplecritical.com'  style={{position:"absolute", backgroundColor:"transparent", borderColor:"transparent", top:"50%"}}>
-                <Image src={Mailbox} style={{width:"15%"}}></Image>
+                <Image src={Mailbox} style={{width:"15%", left:"50%"}}></Image>
             </Button>
         </div>
     );
