@@ -16,7 +16,7 @@ import Col from 'react-bootstrap/Col';
 function About(){
     return(
         <div style={{display:"flex" ,position:"relative", background:"linear-gradient(to bottom, hsla(0, 0%, 0%, 1) 0%, hsla(0, 0%, 13%, 1) 100%)", color:"white"}}>
-            <h1 id="team" style={{position:"absolute", textAlign:"center", top:"25vh", left:"50%", transform: "translate(-50%, -50%)", color:"#ff0f7b", fontSize:"6vw"}}>The Team</h1>
+            <h1 id="team" style={{position:"absolute", textAlign:"center", top:"15vw", left:"50%", transform: "translate(-50%, -50%)", color:"#ff0f7b", fontSize:"6vw"}}>The Team</h1>
             <Container style={{marginTop:"30vw"}}>
                 <Row>
                     <Col style={{textAlign:"center"}}>
@@ -24,10 +24,10 @@ function About(){
                         <h1>Edward Chang</h1>
                         <p1>Creative Director<br></br></p1>
                         <Button href="https://twitter.com/Phalistafer" style={{backgroundColor:"transparent", borderColor:"transparent"}}>
-                            <Image src={Twitter} style={{width:"5vw", top:"10vw"}}></Image>
+                            <Image src={Twitter} style={{width:"7.5vw", top:"7.5vw"}}></Image>
                         </Button>
                         <Button href="https://www.linkedin.com/in/edward-dash-chang/" style={{backgroundColor:"transparent", borderColor:"transparent"}}>
-                            <Image src={Linkedin} style={{width:"5vw", top:"10vw"}}></Image>
+                            <Image src={Linkedin} style={{width:"7.5vw", top:"7.5vw"}}></Image>
                         </Button>
                     </Col>
                     <Col style={{textAlign:"center"}}>
@@ -35,10 +35,10 @@ function About(){
                         <h1>Rafael Padilla</h1>
                         <p1>Executive Producer<br></br></p1>
                         <Button href="https://twitter.com/RafaGamedev" style={{backgroundColor:"transparent", borderColor:"transparent"}}>
-                            <Image src={Twitter} style={{width:"5vw", top:"10vw"}}></Image>
+                            <Image src={Twitter} style={{width:"7.5vw", top:"7.5vw"}}></Image>
                         </Button>
                         <Button href="https://www.linkedin.com/in/rafaelpadillaperez/" style={{backgroundColor:"transparent", borderColor:"transparent"}}>
-                            <Image src={Linkedin} style={{width:"5vw", top:"10vw"}}></Image>
+                            <Image src={Linkedin} style={{width:"7.5vw", top:"7.5vw"}}></Image>
                         </Button>
                     </Col>
                     <Col style={{textAlign:"center"}}>
@@ -46,10 +46,10 @@ function About(){
                         <h1>Kevin Prakash</h1>
                         <p1>Technical Game Design Director<br></br></p1>
                         <Button href="https://twitter.com/kevprakash" style={{backgroundColor:"transparent", borderColor:"transparent"}}>
-                            <Image src={Twitter} style={{width:"5vw", top:"10vw"}}></Image>
+                            <Image src={Twitter} style={{width:"7.5vw", top:"7.5vw"}}></Image>
                         </Button>
                         <Button href="https://www.linkedin.com/in/kevprakash/" style={{backgroundColor:"transparent", borderColor:"transparent"}}>
-                            <Image src={Linkedin} style={{width:"5vw", top:"10vw"}}></Image>
+                            <Image src={Linkedin} style={{width:"7.5vw", top:"7.5vw"}}></Image>
                         </Button>
                     </Col>
 
@@ -60,10 +60,10 @@ function About(){
                         <h1>Landon Ellis</h1>
                         <p1>Lead Character and Animation Artist<br></br></p1>
                         <Button href="" style={{backgroundColor:"transparent", borderColor:"transparent"}}>
-                            <Image src={Twitter} style={{width:"5vw", top:"10vw"}}></Image>
+                            <Image src={Twitter} style={{width:"7.5vw", top:"7.5vw"}}></Image>
                         </Button>
                         <Button href="" style={{backgroundColor:"transparent", borderColor:"transparent"}}>
-                            <Image src={Linkedin} style={{width:"5vw", top:"10vw"}}></Image>
+                            <Image src={Linkedin} style={{width:"7.5vw", top:"7.5vw"}}></Image>
                         </Button>
                     </Col>
                     <Col style={{textAlign:"center"}}>
@@ -71,10 +71,10 @@ function About(){
                         <h1>Shawn Yao</h1>
                         <p1>Audio Director<br></br></p1>
                         <Button href="https://twitter.com/ShawnisShaya" style={{backgroundColor:"transparent", borderColor:"transparent"}}>
-                            <Image src={Twitter} style={{width:"5vw", top:"10vw"}}></Image>
+                            <Image src={Twitter} style={{width:"7.5vw", top:"7.5vw"}}></Image>
                         </Button>
                         <Button href="https://www.linkedin.com/in/shawnyaogameaudio/" style={{backgroundColor:"transparent", borderColor:"transparent"}}>
-                            <Image src={Linkedin} style={{width:"5vw", top:"10vw"}}></Image>
+                            <Image src={Linkedin} style={{width:"7.5vw", top:"7.5vw"}}></Image>
                         </Button>
                     </Col>
                     <Col style={{textAlign:"center"}}>
@@ -82,10 +82,10 @@ function About(){
                         <h1>Erin Kelley</h1>
                         <p1>Art Director<br></br></p1>
                         <Button href="" style={{backgroundColor:"transparent", borderColor:"transparent"}}>
-                            <Image src={Twitter} style={{width:"5vw", top:"10vw"}}></Image>
+                            <Image src={Twitter} style={{width:"7.5vw", top:"7.5vw"}}></Image>
                         </Button>
                         <Button href="https://www.linkedin.com/in/erin-kelley-a14b2a103/" style={{backgroundColor:"transparent", borderColor:"transparent"}}>
-                            <Image src={Linkedin} style={{width:"5vw", top:"10vw"}}></Image>
+                            <Image src={Linkedin} style={{width:"7.5vw", top:"7.5vw"}}></Image>
                         </Button>
                     </Col>
                 </Row>
@@ -95,10 +95,10 @@ function About(){
                         <h1>Anna Cagle</h1>
                         <p1>2D Artist<br></br></p1>
                         <Button href="" style={{backgroundColor:"transparent", borderColor:"transparent"}}>
-                            <Image src={Twitter} style={{width:"5vw", top:"10vw"}}></Image>
+                            <Image src={Twitter} style={{width:"7.5vw", top:"7.5vw"}}></Image>
                         </Button>
                         <Button href="" style={{backgroundColor:"transparent", borderColor:"transparent"}}>
-                            <Image src={Linkedin} style={{width:"5vw", top:"10vw"}}></Image>
+                            <Image src={Linkedin} style={{width:"7.5vw", top:"7.5vw"}}></Image>
                         </Button>
                     </Col>
                     <Col style={{textAlign:"center"}}>
@@ -106,10 +106,10 @@ function About(){
                         <h1>Jet</h1>
                         <p1>Marketing Director<br></br></p1>
                         <Button href="" style={{backgroundColor:"transparent", borderColor:"transparent"}}>
-                            <Image src={Twitter} style={{width:"5vw", top:"10vw"}}></Image>
+                            <Image src={Twitter} style={{width:"7.5vw", top:"7.5vw"}}></Image>
                         </Button>
                         <Button href="" style={{backgroundColor:"transparent", borderColor:"transparent"}}>
-                            <Image src={Linkedin} style={{width:"5vw", top:"10vw"}}></Image>
+                            <Image src={Linkedin} style={{width:"7.5vw", top:"7.5vw"}}></Image>
                         </Button>
                     </Col>
                 </Row>
