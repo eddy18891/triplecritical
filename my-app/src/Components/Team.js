@@ -95,21 +95,21 @@ function Team(){
                         <Image src={Anna} style={{width:"20vw"}}></Image>
                         <h1>Anna Cagle</h1>
                         <p>2D Artist<br></br></p>
-                        <Button href="" style={{backgroundColor:"transparent", borderColor:"transparent"}}>
+                        <Button href="https://twitter.com/harpidiem" style={{backgroundColor:"transparent", borderColor:"transparent"}}>
                             <Image src={Twitter} style={{width:"6vw", top:"6vw"}}></Image>
                         </Button>
-                        <Button href="" style={{backgroundColor:"transparent", borderColor:"transparent"}}>
+                        <Button href="https://www.linkedin.com/in/anna-cagle-47a6ab270/" style={{backgroundColor:"transparent", borderColor:"transparent"}}>
                             <Image src={Linkedin} style={{width:"6vw", top:"6vw"}}></Image>
                         </Button>
                     </Col>
                     <Col style={{textAlign:"center"}}>
                         <Image src={Jet} style={{width:"20vw"}}></Image>
-                        <h1>Jet</h1>
+                        <h1>Jet Amarasinghe</h1>
                         <p>Marketing Director<br></br></p>
-                        <Button href="" style={{backgroundColor:"transparent", borderColor:"transparent"}}>
+                        <Button href="https://twitter.com/TokyDeku" style={{backgroundColor:"transparent", borderColor:"transparent"}}>
                             <Image src={Twitter} style={{width:"6vw", top:"6vw"}}></Image>
                         </Button>
-                        <Button href="" style={{backgroundColor:"transparent", borderColor:"transparent"}}>
+                        <Button href="https://www.linkedin.com/in/jet-amarasinghe/" style={{backgroundColor:"transparent", borderColor:"transparent"}}>
                             <Image src={Linkedin} style={{width:"6vw", top:"6vw"}}></Image>
                         </Button>
                     </Col>
