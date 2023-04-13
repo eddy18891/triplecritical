@@ -24,7 +24,7 @@ function Team(){
                     <Col style={{textAlign:"center"}}>
                         <Image src={Edward} style={{width:"20vw"}}></Image>
                         <h1>Edward Chang</h1>
-                        <p>Creative Director<br></br></p>
+                        <p>Game Designer<br></br></p>
                         <Button href="https://twitter.com/Phalistafer" style={{backgroundColor:"transparent", borderColor:"transparent"}}>
                             <Image src={Twitter} style={{width:"6vw", top:"6vw"}}></Image>
                         </Button>
