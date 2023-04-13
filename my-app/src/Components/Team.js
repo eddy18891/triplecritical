@@ -14,6 +14,7 @@ import ArtStation from "../Img/artstation.png"
 import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
+
 function Team(){
     return(
         <div style={{display:"flex" ,position:"relative", background:"linear-gradient(to bottom, hsla(0, 0%, 0%, 1) 0%, hsla(0, 0%, 13%, 1) 100%)", color:"white"}}>
@@ -34,7 +35,7 @@ function Team(){
                     <Col style={{textAlign:"center"}}>
                         <Image src={Rafa} style={{width:"20vw"}}></Image>
                         <h1>Rafael Padilla</h1>
-                        <p>Executive Producer<br></br></p>
+                        <p>Producer<br></br></p>
                         <Button href="https://twitter.com/RafaGamedev" style={{backgroundColor:"transparent", borderColor:"transparent"}}>
                             <Image src={Twitter} style={{width:"6vw", top:"6vw"}}></Image>
                         </Button>
@@ -45,7 +46,7 @@ function Team(){
                     <Col style={{textAlign:"center"}}>
                         <Image src={Kevin} style={{width:"20vw"}}></Image>
                         <h1>Kevin Prakash</h1>
-                        <p>Technical Game Design Director<br></br></p>
+                        <p>Technical Game Designer<br></br></p>
                         <Button href="https://twitter.com/kevprakash" style={{backgroundColor:"transparent", borderColor:"transparent"}}>
                             <Image src={Twitter} style={{width:"6vw", top:"6vw"}}></Image>
                         </Button>
@@ -59,7 +60,7 @@ function Team(){
                 <Col style={{textAlign:"center"}}>
                         <Image src={Landon} style={{width:"20vw"}}></Image>
                         <h1>Landon Ellis</h1>
-                        <p>Lead Character and Animation Artist<br></br></p>
+                        <p>Character and Animation Artist<br></br></p>
                         <Button href="https://www.artstation.com/landonellis" style={{backgroundColor:"transparent", borderColor:"transparent"}}>
                             <Image src={ArtStation} style={{width:"6vw", top:"6vw"}}></Image>
                         </Button>
@@ -70,7 +71,7 @@ function Team(){
                     <Col style={{textAlign:"center"}}>
                         <Image src={Shawn} style={{width:"20vw"}}></Image>
                         <h1>Shawn Yao</h1>
-                        <p>Audio Director<br></br></p>
+                        <p>Audio<br></br></p>
                         <Button href="https://twitter.com/ShawnisShaya" style={{backgroundColor:"transparent", borderColor:"transparent"}}>
                             <Image src={Twitter} style={{width:"6vw", top:"6vw"}}></Image>
                         </Button>
@@ -105,7 +106,7 @@ function Team(){
                     <Col style={{textAlign:"center"}}>
                         <Image src={Jet} style={{width:"20vw"}}></Image>
                         <h1>Jet Amarasinghe</h1>
-                        <p>Marketing Director<br></br></p>
+                        <p>Marketing<br></br></p>
                         <Button href="https://twitter.com/TokyDeku" style={{backgroundColor:"transparent", borderColor:"transparent"}}>
                             <Image src={Twitter} style={{width:"6vw", top:"6vw"}}></Image>
                         </Button>
